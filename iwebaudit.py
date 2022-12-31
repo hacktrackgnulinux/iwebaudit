@@ -38,7 +38,7 @@ def help():
 	print "\n", "-" * 78
 	print colors.white, "iWebAudit v1.5 - Web Page Title Analyzer, Alton Johnson (alton@vonahi.io) ", colors.normal
 	print "-" * 78, "\n"
-	print " Usage: iWebAudit -f <file> -o <output_file> -v -h -t 5\n"
+	print " Usage: iwebaudit -f <file> -o <output_file> -v -h -t 5\n"
 	print "\t-f <file>\tSupports list of IPs and/or http[s]:// formatted IPs."
 	print "\t-o <file>\tOutputs the results to a file of your choice."
 	print "\t-h \t\tEnables HTTP PUT Method Discovery. (optional)"
