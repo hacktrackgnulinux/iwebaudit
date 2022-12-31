@@ -1,0 +1,5 @@
+chmod -v 775 iwebaudit.py
+ln -sv /pentest/01/iwebaudit/iwebaudit.py /usr/bin/iwebaudit
+ln -sv /pentest/01/iwebaudit/iwebaudit.py /usr/bin/iwebaudit.py
+ln -sv /pentest/01/iwebaudit/iwebaudit.py /usr/bin/iWebAudit
+ln -sv /pentest/01/iwebaudit/iwebaudit.py /usr/bin/iWebAudit.py
